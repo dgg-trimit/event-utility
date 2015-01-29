@@ -30,5 +30,12 @@ var eventUtility = {
 		} else {
 			event.returnValue = false;
 		}
+	}, 
+	getCharCode : function (event) {
+		if (typeof event.charCode !== "undefined") {
+			return event.charCode;
+		} else {
+			return event.keyCode;
+		}
 	}
 };
