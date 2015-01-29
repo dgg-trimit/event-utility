@@ -16,7 +16,7 @@ Usage
 Simply include this file at an appropriate place within your html. 
 
 e.g. 
-
+```
 <DOCTYPE html>
 <html>
   <head>
@@ -31,5 +31,5 @@ e.g.
     <script src="script.js"></script>
   </body>
 </html>
-
+```
 
