@@ -1,5 +1,5 @@
 # event-utility
----------------
+
 JavaScript Event Utility - props to Jeremy McPeak of tuts+
 
 A very simple cross-browser JavaScript event utility; for those of you who do not wish to include a JavaScript library, such as jQuery, etc. . 
