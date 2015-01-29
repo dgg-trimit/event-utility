@@ -13,7 +13,7 @@ An object with the following methods:
 
 Usage
 -----
-Simply include this file at the bottom of your <body>, but before your <script/> which will use this. 
+Simply include this file at an appropriate place within your html. 
 
 e.g. 
 
